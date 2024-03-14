@@ -1,0 +1,7 @@
+Initial minimisation of our complex
+ &cntrl
+   imin=1, maxcyc=10000, ncyc=5000,
+   iwrap=1,
+   cut=10, ntb=1,
+   ntwx=100, ntwr=100
+ /
