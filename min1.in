@@ -3,6 +3,6 @@ Initial minimisation of our complex
    imin=1, maxcyc=5000, ncyc=2500,
    iwrap=1,
    cut=10, ntb=1,
-   ntr=1, restraint_wt=20, restraintmask= ':1-337',
+   ntr=1, restraint_wt=10, restraintmask= ':1-337',
    ntwx=100, ntwr=100
  /
