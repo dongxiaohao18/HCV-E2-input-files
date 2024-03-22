@@ -2,7 +2,7 @@ Initial minimisation of our complex
  &cntrl
    imin=1, maxcyc=5000, ncyc=2500,
    iwrap=1,
-   cut=10, ntb=1,
+   cut=9, ntb=1,
    ntr=1, restraint_wt=5, restraintmask= ':1-238@CA,N,C ',
    ntwx=100, ntwr=100
  /
