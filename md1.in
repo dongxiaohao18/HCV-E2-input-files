@@ -3,7 +3,7 @@ Initial minimisation of our complex
   imin=0,
   iwrap=1,
   irest=1,ntx=7,
-  cut=9, ntb=2,
+  cut=10, ntb=2,
   ntp=1, pres0=1.0,taup=2,
   ntr=1, restraint_wt=1, restraintmask= ':1-544@CA,N,C',
   ntc=2, ntf=2,
